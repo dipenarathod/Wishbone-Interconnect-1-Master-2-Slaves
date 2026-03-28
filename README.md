@@ -94,11 +94,7 @@ The master return signals depend on the currently latched slave:
 
 ## File
 
-This repository currently includes:
-
-```text
-RTL/wb_1m2s_interconnect.vhd
-```
+- [RTL](RTL) — VHDL source for the interconnect
 
 ## Example use case
 
